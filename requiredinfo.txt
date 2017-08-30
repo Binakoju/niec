@@ -1,0 +1,2 @@
+padding-top/bottom: 110px;
+after title/after content : 65px
